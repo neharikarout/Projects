@@ -1,5 +1,5 @@
 
-# Counter App using React with Vite
+# Counter App 
 
 ## Overview
 The Counter App is a simple web application developed using React.js and Vite. It serves as an introductory project to building dynamic user interfaces with React and leveraging Vite for fast development and bundling.
