@@ -18,7 +18,8 @@ Copy to Clipboard: Generated passwords can be copied to the clipboard with a sin
 React.js: A JavaScript library for building user interfaces.
 Vite: A fast build tool that accelerates React development with its native ES module support.
 
-![image](https://github.com/neharikarout/Projects/assets/144371961/a4d7a2c1-f894-41ec-9170-3a90092361d5)
-
 
 ![Screenshot 2024-03-14 133723](https://github.com/neharikarout/Projects/assets/144371961/80f25379-302e-4045-8916-b040168f8127)
+
+
+![image](https://github.com/neharikarout/Projects/assets/144371961/a4d7a2c1-f894-41ec-9170-3a90092361d5)
