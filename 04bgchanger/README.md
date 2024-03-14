@@ -1,4 +1,4 @@
-# Background Changer App using React with Vite
+# Background Changer App 
 
 ## Overview
 
