@@ -1,7 +1,7 @@
 
-Gallery Website
+# Gallery Website
 
-Overview
+## Overview
 
 The Gallery Website is a simple web project developed using HTML and CSS. It features a collection of images displayed in a gallery format. When a user hovers over an image, it enlarges slightly, gains color, and a shadow effect is applied, providing an interactive and visually appealing experience. This project aims to demonstrate basic HTML and CSS techniques for creating image galleries with interactive hover effects.
 
