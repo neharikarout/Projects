@@ -9,13 +9,14 @@ Adventure Title and Man: The title "Adventure" and an illustrated man in the for
 Adventure Sport Sections: Each adventure sport section features fixed imagery while the accompanying text moves upwards at a slower speed as the user scrolls. This effect adds dynamism and interest to the content, enhancing the overall visual appeal of the website.
 
 ## Screenshots
-1. Mountain Background, Man and Title Animation
+### 1. Mountain Background, Man and Title Animation
    
 ![Screenshot 2024-03-14 124736](https://github.com/neharikarout/Projects/assets/144371961/10818b91-999a-4163-aec5-f87525c08739)
 
 ![Screenshot 2024-03-14 124821](https://github.com/neharikarout/Projects/assets/144371961/e1a2c524-01cf-4b16-a7b0-09695428ff89)
 
-2. Adventure Sport Section with Parallax Effect
+
+### 2. Adventure Sport Section with Parallax Effect
 
 ![Screenshot (220)](https://github.com/neharikarout/Projects/assets/144371961/e3c01fa4-d503-4900-8152-3104fba1b154)
 
