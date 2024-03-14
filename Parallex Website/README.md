@@ -10,13 +10,15 @@ Adventure Sport Sections: Each adventure sport section features fixed imagery wh
 
 ## Screenshots
 1. Mountain Background, Man and Title Animation
-![Screenshot 2024-03-14 124736](https://github.com/neharikarout/Projects/assets/144371961/096b5ee5-8114-4747-9a46-c55a8b23a9ee)
+   
+![Screenshot 2024-03-14 124736](https://github.com/neharikarout/Projects/assets/144371961/10818b91-999a-4163-aec5-f87525c08739)
 
-![Screenshot 2024-03-14 124821](https://github.com/neharikarout/Projects/assets/144371961/c90877c3-fb50-4d63-b659-62f6ec57ddbe)
+![Screenshot 2024-03-14 124821](https://github.com/neharikarout/Projects/assets/144371961/e1a2c524-01cf-4b16-a7b0-09695428ff89)
 
 2. Adventure Sport Section with Parallax Effect
-![Screenshot (220)](https://github.com/neharikarout/Projects/assets/144371961/e3b18e5d-3b55-4c20-9de7-d8a33c714dac)
 
-![Screenshot (221)](https://github.com/neharikarout/Projects/assets/144371961/f91ebfcc-7046-4e6f-a6c5-d5e2e04ab3f5)
+![Screenshot (220)](https://github.com/neharikarout/Projects/assets/144371961/e3c01fa4-d503-4900-8152-3104fba1b154)
+
+![Screenshot (221)](https://github.com/neharikarout/Projects/assets/144371961/b8d1c4e7-1a63-41dc-9d77-f648e78a1a37)
 
 These screenshots showcase the parallax scrolling effects and dynamic elements of the website, providing a glimpse into the immersive user experience it offers.
