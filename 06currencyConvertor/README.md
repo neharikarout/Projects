@@ -6,6 +6,4 @@ Built a dynamic currency converter in React using Vite and Tailwind CSS. Explore
 ![Screenshot 2024-04-24 182603](https://github.com/neharikarout/DSA/assets/144371961/68406ed2-7ef3-4e21-a28f-30f5acf1e437)
 
 
-
-## Tags
 #React #Vite #TailwindCSS #CurrencyConverter #CustomHooks
