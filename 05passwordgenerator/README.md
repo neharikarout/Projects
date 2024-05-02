@@ -1,5 +1,6 @@
 
 # Password Generator App 
+website link : https://neharikarout.github.io/password-generator/
 
 ## Overview
 The Password Generator App is a utility web application developed with React.js and Vite. It generates strong and secure passwords based on user-defined criteria. This project serves as an opportunity to explore React component composition, state management, and event handling while providing a practical tool for generating secure passwords.
