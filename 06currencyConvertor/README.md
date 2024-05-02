@@ -1,5 +1,5 @@
 # React Currency Converter
-website link : https://neharikarout.github.io/currency-convertor/
+Website link : https://neharikarout.github.io/currency-convertor/
 
 
 ## Description
